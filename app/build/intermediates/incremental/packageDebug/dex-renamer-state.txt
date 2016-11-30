@@ -1,0 +1,7 @@
+#Wed Nov 30 19:30:23 CET 2016
+base.0=C\:\\code\\tmp\\a\\TodoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a9e66cfec0fac675f0bf16fa7c6f5d2e1530962d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\code\\tmp\\a\\TodoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f212852f27a9f632b9ba087bbef1a3581cf98483\\classes.dex
+base.1=C\:\\code\\tmp\\a\\TodoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f212852f27a9f632b9ba087bbef1a3581cf98483
+file.0=C\:\\code\\tmp\\a\\TodoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a9e66cfec0fac675f0bf16fa7c6f5d2e1530962d\\classes.dex
